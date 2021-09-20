@@ -1,2 +1,2 @@
 # 505
-505 fw host
+Host For 5.05FW
